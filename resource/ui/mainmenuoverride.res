@@ -1146,7 +1146,7 @@
 		"fieldName"		"CustomButton"
 		"xpos"			"8"
 		"ypos"			"2"
-		"zpos"			6"
+		"zpos"			"6"
 		"wide"			"14"
 		"tall"			"14"
 		"autoResize"	"0"
