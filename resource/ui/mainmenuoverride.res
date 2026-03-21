@@ -1200,7 +1200,7 @@
 				"visible"		"1"
 				"enabled"		"1"
 				"scaleImage"	"1"
-				"image"			"replay/thumbnails/buttons/lobby"
+				"image"			"glyph_steamworkshop"
 				"proportionaltoparent"	"1"
 			}
 		}
