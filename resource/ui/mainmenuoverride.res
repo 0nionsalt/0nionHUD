@@ -385,7 +385,7 @@
 	"MOTD_Panel"
 	{
 		"ControlName"	"EditablePanel"
-		"fieldName"		"MOTD_Panel"
+		"fieldName"		"MOTD_Panel_OLD"
 		"xpos"			"cs-0.5"
 		"ypos"			"cs-0.5+12"
 		"zpos"			"1"
@@ -1174,7 +1174,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"labelText"		""
-			"command"		"engine exec hud_settings_toggle; hud_popup_toggle"
+			"command"		"engine exec hud_settings_toggle; engine hud_popup_toggle"
 			"textAlignment"	"center"
 			"default"		"1"
 			"sound_depressed"	"UI/buttonclick.wav"
@@ -1209,7 +1209,7 @@
 	"HUDSettingsPopup"
 	{
 		"ControlName"	"EditablePanel"
-		"fieldName"		"HUDSettingsPopup"
+		"fieldName"		"MOTD_Panel"
 		"xpos"			"c-150"
 		"ypos"			"c-100"
 		"zpos"			"1000"
